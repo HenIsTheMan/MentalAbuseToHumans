@@ -2,7 +2,7 @@
 #include <utility>
 using namespace std;
 
-const float	PI = 3.1415926535897932384626433832795f;
+const float PI = 3.1415926535897932384626433832795f;
 
 inline float RadianToDegree(float value){
 	return value * 180.f / PI;
